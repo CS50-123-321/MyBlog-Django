@@ -3,3 +3,4 @@ def add(**kwargs):
     for k,l in l:
         print (k,l)
 add ()
+1
